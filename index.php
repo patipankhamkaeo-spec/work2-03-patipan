@@ -7,12 +7,12 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
-    <div class="all">
-    <div class="card">
     <div class="name">
     <h1>งานที่ 2 ปฏิภาณ BIT.2/5 เลขที่ 03</h1>
     </div>
+    <div class="all">
+    <div class="card">
+   
     <form action="result.php" method="post">
     <div class="formlabel">
     <label for="">ปริมาตรทรงกระบอก</label><br>
@@ -27,7 +27,7 @@
     </div>
     <div class="button">
     <button>คำนวณ</button>
-</div>
+    </div>
     </form>
     </div>
 
